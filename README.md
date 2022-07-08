@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-landing-page-using-css-grid-KHtKkvG8Jc)
 - Live Site URL: [Huddle Landing Page](https://arey-dev.github.io/huddle-landing-page/)
 
 ## My process
