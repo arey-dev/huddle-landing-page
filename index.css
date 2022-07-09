@@ -75,6 +75,7 @@ main {
 
 .nav__icon {
   display: flex;
+  align-items: center;
   column-gap: 1rem;
 }
 
@@ -90,10 +91,15 @@ main {
   padding-inline: 0.7em;
 }
 
+.fa-instagram {
+  padding-inline: 0.53em;
+}
+
 .fa-brands:hover {
   background-color: var(--clr-white);
   color: var(--clr-magenta);
 }
+
 
 @media only screen and (max-width: 1064px) {
   main {
